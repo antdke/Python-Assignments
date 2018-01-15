@@ -2,6 +2,8 @@
 ## CSCI-UA.0002-012
 ## Assignment 8: Part 1
 
+#This program converts the zeros with index values that are prime in the range of 1-1001 to ones.
+
 """
 # KEY
 # 1 == NON PRIME
