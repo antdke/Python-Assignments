@@ -7,7 +7,7 @@ This program does the following:
 1) asks user for 2 inputs: start and end numbers
 2) make sure user inputs valid inputs
 3) checks for prime numbers from start to end number
-4) organizes printed primes into a table with 10 numbers in each row
+4) organizes printed primes into a table with 10 numbers in each row.
 
 """
 proceed = False
