@@ -2,6 +2,8 @@
 ## CSCI-UA.0002-012
 ## Assignment 8: Part 2
 
+#This program creates an inventory list that the user can manipulate and interact with.
+
 """
 PART COMPLETION CHECKLIST
 
